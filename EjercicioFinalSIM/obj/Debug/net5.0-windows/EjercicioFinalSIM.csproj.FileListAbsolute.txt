@@ -1,0 +1,10 @@
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.csproj.AssemblyReference.cache
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.Intermedio.resources
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.Principal.resources
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.Properties.Resources.resources
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.Simulacion.resources
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.csproj.GenerateResource.cache
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.GeneratedMSBuildEditorConfig.editorconfig
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.AssemblyInfoInputs.cache
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.AssemblyInfo.cs
+D:\nano\Facultad\UTN\4to\SIM\Final\EjercicioFinalSIM\obj\Debug\net5.0-windows\EjercicioFinalSIM.csproj.CoreCompileInputs.cache
