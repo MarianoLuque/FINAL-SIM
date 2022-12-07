@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Simulacion));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -45,7 +44,7 @@
             // btn_cerrar_programa
             // 
             this.btn_cerrar_programa.BackColor = System.Drawing.Color.Transparent;
-            this.btn_cerrar_programa.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_cerrar_programa.BackgroundImage")));
+            this.btn_cerrar_programa.BackgroundImage = global::EjercicioFinalSIM.Properties.Resources.cerrar;
             this.btn_cerrar_programa.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_cerrar_programa.FlatAppearance.BorderSize = 0;
             this.btn_cerrar_programa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;

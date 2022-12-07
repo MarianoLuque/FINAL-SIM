@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Intermedio));
             this.label1 = new System.Windows.Forms.Label();
             this.btn_simular = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
@@ -308,7 +307,7 @@
             // btn_reformular_llegadas
             // 
             this.btn_reformular_llegadas.BackColor = System.Drawing.Color.Transparent;
-            this.btn_reformular_llegadas.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_reformular_llegadas.BackgroundImage")));
+            this.btn_reformular_llegadas.BackgroundImage = global::EjercicioFinalSIM.Properties.Resources.flecha;
             this.btn_reformular_llegadas.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_reformular_llegadas.FlatAppearance.BorderSize = 0;
             this.btn_reformular_llegadas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -585,7 +584,7 @@
             // btn_cerrar
             // 
             this.btn_cerrar.BackColor = System.Drawing.Color.Transparent;
-            this.btn_cerrar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_cerrar.BackgroundImage")));
+            this.btn_cerrar.BackgroundImage = global::EjercicioFinalSIM.Properties.Resources.cerrar;
             this.btn_cerrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_cerrar.FlatAppearance.BorderSize = 0;
             this.btn_cerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -789,7 +788,7 @@
             // btn_reformular_atenciones
             // 
             this.btn_reformular_atenciones.BackColor = System.Drawing.Color.Transparent;
-            this.btn_reformular_atenciones.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_reformular_atenciones.BackgroundImage")));
+            this.btn_reformular_atenciones.BackgroundImage = global::EjercicioFinalSIM.Properties.Resources.flecha;
             this.btn_reformular_atenciones.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_reformular_atenciones.FlatAppearance.BorderSize = 0;
             this.btn_reformular_atenciones.FlatStyle = System.Windows.Forms.FlatStyle.Flat;

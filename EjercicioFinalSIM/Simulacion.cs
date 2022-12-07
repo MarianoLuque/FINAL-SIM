@@ -229,7 +229,6 @@ namespace EjercicioFinalSIM
             }
 
             dg_colas.DataSource = tabla_iteraciones;
-            ModificarColumnas();
         }
 
         private void ModificarColumnas()
